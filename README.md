@@ -18,7 +18,7 @@ Peserta diharapkan mampu menulis kode yang **production-ready**, bukan sekadar "
 Gunakan stack berikut:
 
 * **Vite**
-* **React 18**
+* **React 19**
 * **TypeScript**
 * **React Router**
 * **Fetc & SWR**
